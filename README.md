@@ -19,8 +19,6 @@ A data-driven exploratory data analysis (EDA) project on FedEx logistics data to
 - **Columns**: Shipment Mode, Product Group, Delivery Delay, Freight Cost, Weight, Country, Dates, etc.  
 - **Size**: 1000+ records  
 
----
-
 ## 📈 Key Insights
 - Air shipments show high variability in delivery delays  
 - Freight cost grows with weight and longer delivery durations  
@@ -29,16 +27,11 @@ A data-driven exploratory data analysis (EDA) project on FedEx logistics data to
 - Extract actionable business insights
 - Present data using interactive visualizations
 
-
-
----
-
 ## 📌 Tech Stack
 - Python (Pandas, NumPy)
 - Seaborn, Matplotlib (Static Charts)
 - Plotly (Interactive Visuals)
 - Jupyter Notebook
 
----
 
 
