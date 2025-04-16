@@ -1,6 +1,5 @@
 # 🚚 FedEx Global Delivery EDA & Data Visualization
 
-
 A data-driven exploratory data analysis (EDA) project on FedEx logistics data to uncover patterns in delivery delays, freight costs and shipment modes across countries and time.
 
 ---
@@ -14,27 +13,33 @@ A data-driven exploratory data analysis (EDA) project on FedEx logistics data to
 
 ---
 
-## 🧾 Dataset Summary
-- **Source**: FedEx logistics dataset  
-- **Columns**: Shipment Mode, Product Group, Delivery Delay, Freight Cost, Weight, Country, Dates, etc.  
-- **Size**: 1000+ records  
+## 📦 Dataset Overview
 
-## 📈 Key Insights
-- Air shipments show high variability in delivery delays  
-- Freight cost grows with weight and longer delivery durations  
-- Shipment preferences vary by country  
-- Seasonal order volumes observed in specific months
-- Extract actionable business insights
-- Present data using interactive visualizations
-
-## 📌 Tech Stack
+| Feature           | Description                                      |
+|-------------------|--------------------------------------------------|
+| Records           | 1000+ FedEx shipment entries                     |
+| Shipment Mode     | Air, Sea, Road, and Rail                         |
+| Product Group     | Type/category of the shipped product             |
+| Freight Cost (USD)| Cost incurred for each shipment                  |
+| Delivery Delay    | Delay in days between expected & actual delivery |
+| Weight (Kg)       | Total weight of shipment                         |
+| Country           | Destination country of the shipment              |
+| Date Columns      | PO Sent Date, Delivery Date, etc.                |
 
 ---
+
+## 📈 Key Insights
+- Air shipments show high variability in delays  
+- Freight cost increases with weight and delivery time  
+- Shipment preferences vary by country  
+- Seasonal patterns in order volumes  
+- Interactive visuals improve decision-making
+
+---
+
+## 📌 Tech Stack
 
 - Python (Pandas, NumPy)
 - Seaborn, Matplotlib (Static Charts)
 - Plotly (Interactive Visuals)
 - Jupyter Notebook
-
-
-
