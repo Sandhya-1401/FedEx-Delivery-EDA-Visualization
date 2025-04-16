@@ -43,3 +43,18 @@ A data-driven exploratory data analysis (EDA) project on FedEx logistics data to
 - Seaborn, Matplotlib (Static Charts)
 - Plotly (Interactive Visuals)
 - Jupyter Notebook
+
+---
+
+## 🏢 Business Impact
+
+This project helps companies like FedEx to:
+
+- 📦 **Reduce Delivery Delays** by identifying delay patterns across countries, modes, and times.
+- 💸 **Optimize Freight Costs** by analyzing cost-to-weight ratios and delivery duration impacts.
+- 🚛 **Improve Shipment Mode Selection** based on performance metrics per country and product group.
+- 📊 **Support Data-Driven Decisions** through visual dashboards and actionable insights.
+- 🌍 **Enhance Global Logistics** by understanding regional behavior, seasonal demand, and product flow.
+
+**Result:** Smarter logistics planning, cost savings, and improved customer satisfaction.
+
