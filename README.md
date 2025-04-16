@@ -1,6 +1,7 @@
-# 🚚 FedEx Global Supply Chain Analysis
+# 🚚 FedEx Global Delivery EDA & Data Visualization
 
-A data-driven exploratory data analysis (EDA) project on FedEx logistics data to uncover patterns in delivery delays, freight costs, and shipment modes across countries and time.
+
+A data-driven exploratory data analysis (EDA) project on FedEx logistics data to uncover patterns in delivery delays, freight costs and shipment modes across countries and time.
 
 ---
 
@@ -14,7 +15,6 @@ A data-driven exploratory data analysis (EDA) project on FedEx logistics data to
 ---
 
 ## 🧾 Dataset Summary
-
 - **Source**: FedEx logistics dataset  
 - **Columns**: Shipment Mode, Product Group, Delivery Delay, Freight Cost, Weight, Country, Dates, etc.  
 - **Size**: 1000+ records  
@@ -22,16 +22,18 @@ A data-driven exploratory data analysis (EDA) project on FedEx logistics data to
 ---
 
 ## 📈 Key Insights
-
 - Air shipments show high variability in delivery delays  
 - Freight cost grows with weight and longer delivery durations  
 - Shipment preferences vary by country  
-- Seasonal order volumes observed in specific months  
+- Seasonal order volumes observed in specific months
+- Extract actionable business insights
+- Present data using interactive visualizations
+
+
 
 ---
 
 ## 📌 Tech Stack
-
 - Python (Pandas, NumPy)
 - Seaborn, Matplotlib (Static Charts)
 - Plotly (Interactive Visuals)
@@ -39,5 +41,4 @@ A data-driven exploratory data analysis (EDA) project on FedEx logistics data to
 
 ---
 
-## 🗂️ Project Structure
 
