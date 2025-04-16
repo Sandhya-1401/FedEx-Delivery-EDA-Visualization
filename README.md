@@ -28,6 +28,9 @@ A data-driven exploratory data analysis (EDA) project on FedEx logistics data to
 - Present data using interactive visualizations
 
 ## 📌 Tech Stack
+
+---
+
 - Python (Pandas, NumPy)
 - Seaborn, Matplotlib (Static Charts)
 - Plotly (Interactive Visuals)
