@@ -1,4 +1,4 @@
-# 🚚 FedEx Global Delivery EDA & Data Visualization
+# FedEx Global Delivery EDA & Data Visualization
 
 A data-driven exploratory data analysis (EDA) project on FedEx logistics data to uncover patterns in delivery delays, freight costs and shipment modes across countries and time.
 
